@@ -45,11 +45,11 @@ export default function DynamicDetailsPage() {
 
   return (
     <Layout>
-      <div className="w-full h-auto px-4 sm:px-24 py-10 font-sans">
+      <div className="w-full h-auto px-4 sm:px-24 py-10 font-sans bg-[#faf9ff]">
         <h3 className="text-[#A7B2C0] text-sm mb-5">
           News Listing Page
           <span className="text-[#40347D] font-semibold">
-            <span className="text-[#A7B2C0]">{" > "}</span>Individual News
+            <span className="text-[#A7B2C0] mx-1">{" > "}</span>Individual News
           </span>
         </h3>
 

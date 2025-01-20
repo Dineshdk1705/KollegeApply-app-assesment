@@ -41,7 +41,7 @@ export default function NewsApp({ searchquery }) {
   return (
     <div className="w-full bg-[#faf9ff]">
       <HomePage searchQuery={searchquery} />
-      <div className="min-h-screen flex flex-col items-center bg-[#F5F3FF] border-[1px] border-[#DCD4FF] py-4 px-2 sm:px-4 md:px-8">
+      <div className="min-h-screen flex flex-col items-center bg-gradient-to-b from-[#F5F3FF] to-[#FFFFFF] border-[1px] border-[#DCD4FF] py-4 px-2 sm:px-4 md:px-8">
         {/* Tab Filters */}
         <div className="w-full max-w-[740px] h-[62px] rounded-2xl bg-white flex flex-wrap justify-center shadow-sm space-x-2 md:space-x-8 mt-4 sm:mt-6 md:mt-10 px-4 border-x-[0.5px] border-t-[0.5px] border-[#DCD4FF]">
           {["All News", "College news", "Exam news", "Admission 2025"].map(
