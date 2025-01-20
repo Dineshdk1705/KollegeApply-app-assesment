@@ -72,7 +72,7 @@ const Header = ({ searchQuery, handleInputSearch }) => {
 
       <div className="w-full sm:w-[334px] h-[45px] flex rounded-md sm:ml-4 mt-4 sm:mt-0">
         <div className="w-[13.33px] h-[13.33px] my-auto">
-          <img src="/icons/search.svg" alt="icon" />
+          <img src="/icons/search2.svg" alt="icon" />
         </div>
         <input
           type="text"
