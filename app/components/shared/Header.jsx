@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 const Header = ({ searchQuery, handleInputSearch }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
