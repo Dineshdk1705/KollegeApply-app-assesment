@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Chitkara University MBA Admission Open",
+    "category": "Admission Alert",
+    "img_url": "/images/img1.png",
+    "description": "Admissions are now open for MBA programs at Chitkara University for the academic year 2025."
+  },
+  {
+    "id": 2,
+    "title": "CBSE Class 12 Physics Question Paper 2024",
+    "category": "Exam news",
+    "img_url": "/images/img2.png",
+    "description": "Check out the recently released CBSE Class 12 Physics question paper for 2024."
+  },
+  {
+    "id": 3,
+    "title": "Top 10 Colleges for Engineering",
+    "category": "College news",
+    "img_url": "/images/img3.png",
+    "description": "Explore the list of the top 10 colleges for engineering in 2025."
+  },
+  {
+    "id": 4,
+    "title": "Latest Updates on JEE Main 2025",
+    "category": "Exam news",
+    "img_url": "/images/img4.png",
+    "description": "Stay informed with the latest updates regarding the JEE Main 2025 registration process."
+  },
+  {
+    "id": 5,
+    "title": "New Courses Announced by Delhi University",
+    "category": "College news",
+    "img_url": "/images/img1.png",
+    "description": "Delhi University has introduced new undergraduate courses starting from the next academic session."
+  },
+  {
+    "id": 6,
+    "title": "Scholarship Opportunities for 2025 Admissions",
+    "category": "Admission Alert",
+    "img_url": "/images/img2.png",
+    "description": "Discover the latest scholarship opportunities for the upcoming admission season."
+  },
+  {
+    "id": 7,
+    "title": "Exam Date Changes for NEET 2025",
+    "category": "Exam news",
+    "img_url": "/images/img3.png",
+    "description": "NEET 2025 exam dates have been revised. Check out the updated schedule."
+  },
+  {
+    "id": 8,
+    "title": "College Festivities Resume Post Pandemic",
+    "category": "College news",
+    "img_url": "/images/img4.png",
+    "description": "Several colleges have resumed their cultural festivities with COVID protocols in place."
+  },
+  {
+    "id": 9,
+    "title": "AIIMS Admissions 2025: Application Process",
+    "category": "Admission Alert",
+    "img_url": "/images/img1.png",
+    "description": "The AIIMS admission process for 2025 is now open for medical aspirants."
+  },
+  {
+    "id": 10,
+    "title": "CAT 2024 Results Announced",
+    "category": "Exam news",
+    "img_url": "/images/img2.png",
+    "description": "CAT 2024 results are out. Students can check their scores on the official website."
+  },
+  {
+    "id": 11,
+    "title": "Launch of New Engineering College in Pune",
+    "category": "College news",
+    "img_url": "/images/img3.png",
+    "description": "A new engineering college has been launched in Pune with state-of-the-art facilities."
+  },
+  {
+    "id": 12,
+    "title": "Upcoming Webinar on Admission Tips 2025",
+    "category": "Admission Alert",
+    "img_url": "/images/img4.png",
+    "description": "Join the upcoming webinar for tips on cracking admissions in 2025."
+  },
+  {
+    "id": 13,
+    "title": "New Grading System Introduced for University Exams",
+    "category": "Latest news",
+    "img_url": "/images/img1.png",
+    "description": "Universities have introduced a new grading system for end-semester exams."
+  },
+  {
+    "id": 14,
+    "title": "NAAC Accreditation Updates for Colleges",
+    "category": "College news",
+    "img_url": "/images/img2.png",
+    "description": "Check the latest NAAC accreditation results for colleges across the country."
+  },
+  {
+    "id": 15,
+    "title": "Exam Pattern Change for GATE 2025",
+    "category": "Exam news",
+    "img_url": "/images/img3.png",
+    "description": "The exam pattern for GATE 2025 has been updated. Students should review the changes carefully."
+  }
+]

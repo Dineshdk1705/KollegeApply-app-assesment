@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "College Orientation Day Announced",
+    "category": "College news",
+    "img_url": "/images/img1.png",
+    "created_at": "27 Dec 2023",
+    "description": "Details about the upcoming orientation day for new students. The orientation day will provide an introduction to the campus, its facilities, and the academic resources available to all incoming students. There will be a series of informational sessions covering academic expectations, student life, and support services. The event will also offer opportunities for students to meet faculty members, staff, and their fellow classmates. Additionally, there will be a tour of the campus, which will help new students familiarize themselves with the various departments, libraries, and common areas. The orientation day aims to create a welcoming and supportive environment, ensuring that all incoming students feel prepared and excited for the academic year ahead. This event is mandatory for all new students and promises to be an engaging and informative experience."
+  },
+  {
+    "id": 2,
+    "title": "Upcoming Exam Schedules",
+    "category": "Exam news",
+    "img_url": "/images/img2.png",
+    "created_at": "25 Dec 2023",
+    "description": "The latest exam schedules have been released. These schedules include important dates for both midterm and final exams across various courses. Students are encouraged to review the schedules carefully to ensure that they do not miss any crucial exam dates. For those who may have schedule conflicts, the administration has provided information on how to request alternative exam times. In addition to traditional in-person exams, there will also be online exam sessions for certain courses. These exams will be conducted through a secure online platform, which will require students to log in with their university credentials. Students should take the time to familiarize themselves with the exam format and ensure they have the necessary technology to participate. The exam schedules are available on the university’s website and in the student portal. Students are also advised to keep track of any updates, as changes may occur."
+  },
+  {
+    "id": 3,
+    "title": "Admission Process for 2025 Begins",
+    "category": "Admission 2025",
+    "img_url": "/images/img3.png",
+    "created_at": "2 Dec 2023",
+    "description": "Steps and guidelines for the 2025 admission process. The university has officially opened its doors for applications for the 2025 academic year. This year, the process has been streamlined to make it easier for prospective students to apply. Students will need to complete an online application form, submit required documents such as transcripts, recommendation letters, and a personal statement, and pay the application fee. The university is also offering several scholarships for eligible students, and those interested can apply by submitting additional documentation. For international students, there are special guidelines that they must follow, including visa requirements and proof of English language proficiency. The university encourages all applicants to attend informational webinars, where admissions staff will walk them through the process and answer any questions. The university also provides resources to help students prepare for entrance exams, including study guides and practice tests."
+  },
+  {
+    "id": 4,
+    "title": "New Course Launch: AI and Machine Learning",
+    "category": "College news",
+    "img_url": "/images/img4.png",
+    "created_at": "28 Nov 2023",
+    "description": "A brand-new course focused on AI and machine learning will begin next semester. The course is designed to provide students with a comprehensive understanding of artificial intelligence, its applications, and the algorithms that power it. The curriculum will cover machine learning techniques, neural networks, deep learning, and the ethical implications of AI. The course will also include hands-on projects where students will work with real-world datasets and develop their own AI models. This new course is part of the university's commitment to offering cutting-edge programs that prepare students for the future of technology. It is suitable for students with a background in computer science, but students from other disciplines who are interested in learning about AI are also welcome. The course is expected to attract a diverse group of students, and it will be taught by experienced faculty members who are experts in the field. Enrollment is now open, and students are encouraged to apply early as spaces are limited."
+  },
+  {
+    "id": 5,
+    "title": "Exam Tips and Strategies",
+    "category": "Exam news",
+    "img_url": "/images/img1.png",
+    "created_at": "25 Nov 2023",
+    "description": "Learn how to prepare effectively for your upcoming exams. Preparing for exams can often feel overwhelming, but with the right strategies in place, students can reduce stress and perform better. First and foremost, it is important to create a study schedule that allows for adequate preparation time. Students should break down the material into manageable sections and allocate specific times to review each topic. Additionally, practicing with past exam papers or sample questions can help students get a sense of the types of questions they might encounter and improve their time management skills. It is also helpful to join study groups, where students can discuss challenging topics and reinforce their understanding. Other effective strategies include getting sufficient sleep, staying hydrated, and taking breaks to refresh the mind. Lastly, students should focus on maintaining a positive mindset, as confidence can significantly impact exam performance."
+  },
+  {
+    "id": 6,
+    "title": "Scholarship Applications Open",
+    "category": "Admission 2025",
+    "img_url": "/images/img2.png",
+    "created_at": "20 Nov 2023",
+    "description": "Scholarship applications for the 2025 batch are now open. The university is offering several scholarships to help support students financially as they pursue their education. These scholarships are available to both undergraduate and graduate students and are based on various criteria, including academic excellence, financial need, and extracurricular involvement. Students can apply for scholarships through the university’s online portal, where they will be required to provide documentation such as their academic records, family income details, and a personal statement. There are also specific scholarships available for students pursuing certain fields of study, such as STEM, the arts, and business. Students who are interested in applying for scholarships are encouraged to submit their applications as early as possible, as there are a limited number of scholarships available. The university’s scholarship office is also hosting workshops to guide students through the application process and answer any questions."
+  },
+  {
+    "id": 7,
+    "title": "Campus Sports Fest Highlights",
+    "category": "College news",
+    "img_url": "/images/img3.png",
+    "created_at": "7 Nov 2023",
+    "description": "An exciting recap of the recent sports fest held on campus. The sports fest was a highly anticipated event that brought together students from different faculties to compete in a variety of sports, including basketball, football, track and field, and tennis. The event was held over the course of two days, and it featured both team and individual competitions. There was a strong sense of camaraderie and school spirit as students cheered on their friends and classmates. The event also featured a variety of fun activities, such as obstacle courses and tug-of-war, which were enjoyed by students of all skill levels. Several notable athletes from the university participated, showcasing their impressive skills and sportsmanship. The sports fest concluded with an awards ceremony where the top performers were recognized, and teams were awarded medals and trophies. The event was a great success and has inspired many students to get more involved in sports and fitness."
+  },
+  {
+    "id": 8,
+    "title": "Online Exam Guidelines Released",
+    "category": "Exam news",
+    "img_url": "/images/img4.png",
+    "created_at": "27 Oct 2023",
+    "description": "Important instructions for students taking online exams. As the university adapts to the ongoing changes in education, online exams have become a key part of the academic experience. Students will need to follow specific guidelines to ensure a smooth and successful online exam experience. First, students are advised to check their internet connection before the exam begins, as a stable connection is essential for accessing the exam platform. They should also ensure that their computer meets the minimum system requirements for the online exam software. The guidelines also outline the necessary materials, including identification, calculators, and any other allowed resources. Students will be required to log into the exam portal at least 30 minutes before the exam start time to ensure they are ready. The university has also implemented a monitoring system to ensure the integrity of the exam process. Students should read all the instructions thoroughly and reach out to the exam coordinator if they have any questions or concerns."
+  },
+  {
+    "id": 9,
+    "title": "Early Admission Deadline Announced",
+    "category": "Admission 2025",
+    "img_url": "/images/img1.png",
+    "created_at": "22 Oct 2023",
+    "description": "The early admission deadline is fast approaching. Apply now! Students who wish to apply for early admission to the university are encouraged to submit their applications before the upcoming deadline. Early admission provides students with the opportunity to secure their place in their desired program before the regular admission period begins. This is especially beneficial for students who already have their academic plans set and wish to avoid the uncertainty of waiting for regular admission decisions. The early admission process is competitive, and students must meet specific academic requirements to be eligible. Students can apply through the university’s online portal, where they will need to provide their high school transcripts, standardized test scores, and a personal statement. It is important for applicants to submit all required documents before the deadline, as incomplete applications will not be considered. Students who are accepted through early admission will receive their decision well in advance of the regular admissions."
+  },
+  {
+    "id": 10,
+    "title": "Advanced Placement Exam Dates Confirmed",
+    "category": "Exam news",
+    "img_url": "/images/img2.png",
+    "created_at": "19 Oct 2023",
+    "description": "Dates for advanced placement exams have been finalized. The university has confirmed the official dates for the advanced placement (AP) exams for this academic year. These exams provide students with the opportunity to earn college credit for certain subjects based on their performance. The AP exams will be held in various subjects, including mathematics, science, history, and languages. Students who are enrolled in AP courses are required to take these exams at the scheduled times. It is important for students to check the official exam schedule to ensure they know when and where their exams will be held. For students who are unsure about the exam format or need extra support, the university is offering review sessions in the weeks leading up to the exams. Students are encouraged to attend these sessions to help them prepare thoroughly. The exam results will be used to determine whether students will receive college credit, so it is crucial to do well on the exams."
+  },
+  {
+    "id": 11,
+    "title": "New Research Opportunities for Students",
+    "category": "College news",
+    "img_url": "/images/img3.png",
+    "created_at": "23 Sep 2023",
+    "description": "Collaborate with faculty on exciting new research projects. The university has announced a new initiative aimed at encouraging students to get involved in research. This program offers students the opportunity to collaborate with faculty members on cutting-edge research projects across various fields, including engineering, medicine, and the humanities. Students will have the chance to contribute to research papers, present findings at academic conferences, and gain valuable experience that will set them apart in their future careers. The university has also introduced a mentorship program where students will be paired with faculty members who will guide them through the research process. This is a unique opportunity for students to build relationships with professors and gain insights into the world of academic research. Students who are interested in participating can apply through the university’s research office, and those selected will receive funding to support their work."
+  },
+  {
+    "id": 12,
+    "title": "Career Fair 2025: What to Expect",
+    "category": "College news",
+    "img_url": "/images/img4.png",
+    "created_at": "14 Sep 2023",
+    "description": "Prepare for the upcoming career fair with these essential tips. The Career Fair 2025 is just around the corner, and students are encouraged to start preparing for this important event. The fair will bring together top employers from various industries, including technology, finance, healthcare, and marketing, who are actively looking for talented students to hire for internships and full-time positions. To make the most of this opportunity, students should research the companies that will be attending the fair and identify those they are most interested in. Additionally, students should update their resumes, ensuring they are tailored to the specific roles they are targeting. It is also a good idea to practice elevator pitches and prepare questions to ask recruiters. The university’s career services office is offering workshops to help students prepare for the fair, including resume writing sessions and mock interview opportunities. Students are encouraged to dress professionally and bring multiple copies of their resumes to hand out to potential employers."
+  },
+  {
+    "id": 13,
+    "title": "Admission Quota Update for 2025",
+    "category": "Admission 2025",
+    "img_url": "/images/img1.png",
+    "created_at": "17 Jul 2023",
+    "description": "Details on the updated admission quotas for various programs. The university has released new information regarding the admission quotas for the 2025 academic year. Due to the increasing number of applicants and the expansion of certain programs, some quotas have been adjusted to ensure fair access to all students. For example, the university has increased the number of seats in high-demand programs like computer science and engineering, while also introducing new quotas for underrepresented groups in specific disciplines. The updated quotas are designed to create a more inclusive and diverse academic environment. Students are encouraged to check the university’s admissions website for the latest updates and to familiarize themselves with the specific criteria for the program they are interested in. It is important for prospective students to meet the new requirements and submit their applications accordingly."
+  },
+  {
+    "id": 14,
+    "title": "Exam Center Location Updates",
+    "category": "Exam news",
+    "img_url": "/images/img2.png",
+    "created_at": "17 May 2023",
+    "description": "Find out the latest changes to exam center locations. The university has made some updates to the locations of the upcoming exams. Due to renovations and improvements in certain buildings, some exam centers have been moved to new locations on campus. Students who have exams scheduled should check their exam center assignments carefully to ensure they go to the correct location. The updated locations are available on the university’s exam portal and can also be found in the student portal. It is important for students to review this information ahead of time to avoid confusion on the day of the exam. In addition to the location changes, the university has also implemented new security measures at the exam centers, including ID verification and stricter monitoring. Students should arrive at least 30 minutes before their exam time to allow for these procedures."
+  },
+  {
+    "id": 15,
+    "title": "Extracurricular Activities: New Clubs",
+    "category": "College news",
+    "img_url": "/images/img3.png",
+    "created_at": "3 Mar 2023",
+    "description": "Explore the exciting new clubs being introduced this semester. The university has launched several new student clubs that cater to a wide range of interests, including technology, art, literature, and social activism. These new clubs provide students with the opportunity to engage in extracurricular activities, meet like-minded individuals, and develop leadership skills outside the classroom. Some of the new clubs include a coding club, a sustainability club, and an art appreciation society. These clubs will host events, workshops, and collaborative projects throughout the semester, allowing students to actively participate in campus life and make a positive impact. Joining a club is also a great way for students to build a network of contacts and gain experience that can help them in their future careers. The university encourages all students to explore the new clubs and find one that aligns with their interests and passions."
+  }
+]
