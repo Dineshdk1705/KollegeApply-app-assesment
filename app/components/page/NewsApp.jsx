@@ -8,20 +8,16 @@ import SmallGridNewsCard from "../shared/SmallGridNewsCard";
 
 export default function NewsApp({ searchquery }) {
   const [newsData, setNewsData] = useState([]);
-  const [isLoading, setIsLoading] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState("All News");
 
   useEffect(() => {
     async function fetchNews() {
       try {
-        setIsLoading(true);
         const res = await fetch("/api/news");
         const data = await res.json();
         setNewsData(data);
       } catch (err) {
         console.log("error while fetching news: ", err);
-      } finally {
-        setIsLoading(false);
       }
     }
     fetchNews();
@@ -61,15 +57,21 @@ export default function NewsApp({ searchquery }) {
           )}
         </div>
         <ul className="mt-6 sm:mt-8 md:mt-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
-          {filteredNews.map((news, index) => {
-            return (
-              <li key={news.id}>
-                <Link href={`${news.id}`}>
-                  <SmallGridNewsCard key={index} news={news} />
-                </Link>
-              </li>
-            );
-          })}
+          {filteredNews.length > 0 ? (
+            filteredNews.map((news, index) => {
+              return (
+                <li key={news.id}>
+                  <Link href={`${news.id}`}>
+                    <SmallGridNewsCard key={index} news={news} />
+                  </Link>
+                </li>
+              );
+            })
+          ) : (
+            <div className="text-center mt-10 text-xl text-gray-400 font-extrabold">
+              No news found {":("}
+            </div>
+          )}
         </ul>
       </div>
     </div>

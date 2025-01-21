@@ -1,4 +1,3 @@
-import React from "react";
 import BasicNewsCard from "./BasicNewsCard";
 
 const FeaturedNews = () => {

@@ -5,6 +5,7 @@ import TopNewsCard from "../components/shared/TopNewsCard";
 import { useEffect, useState } from "react";
 import Layout from "../components/Layout";
 import newsDemo from "../../data/newsDemo.json";
+import Skeleton from "react-loading-skeleton";
 
 export default function DynamicDetailsPage() {
   const { id } = useParams();
@@ -40,7 +41,18 @@ export default function DynamicDetailsPage() {
   }, [id]);
 
   if (!newsByIdData) {
-    return <div>Loading news details...</div>;
+    return (
+      <Layout>
+        <div className="w-full h-screen flex gap-5 px-24 py-10">
+          <div className="w-full">
+            <Skeleton count={1} height={600} />
+          </div>
+          <div className="w-1/2">
+            <Skeleton count={1} height={600} />
+          </div>
+        </div>
+      </Layout>
+    );
   }
 
   return (

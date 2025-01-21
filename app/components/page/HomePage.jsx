@@ -127,7 +127,9 @@ const HomePage = ({ searchQuery }) => {
                 </li>
               ))
             ) : (
-              <p className="text-gray-300 text-center">No news found.</p>
+              <div className="text-center mt-10 text-xl text-gray-400 font-extrabold">
+                No news found {":("}
+              </div>
             )}
           </ul>
         </div>
